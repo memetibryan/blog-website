@@ -1,0 +1,15 @@
+header{
+	color: red;
+	font-family: cursive;
+}
+
+.header1{
+	font-family: cursive;
+	color: blue;
+	font-size: 80px;
+}
+
+body{
+	background-image: url(http://www.surveygizmo.com/wp-content/uploads/2014/02/party-music-hd-wallpaper-1920x1200-3850.jpg);
+	font-family: cursive;
+}
