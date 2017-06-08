@@ -1,23 +1,23 @@
 { "blogs": [{
-    "owner": "Veruca Salt",
-    "category": "Estate",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Crane_estate_(5).jpg"
+    "owner": "Bryan Memeti",
+    "category": "Cars",
+    "image": "http://hdwallpaper2013.com/wp-content/uploads/2013/01/New-Lamborghini-Gallardo-Sports-Cars-HD-Wallpaper.jpg"
   }, {
     "owner": "Mike Teavee",
-    "category": "Condo",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Alfonso_13_Highrise_Tegucigalpa.jpg"
+    "category": "Cars",
+    "image": "http://1.bp.blogspot.com/-_sAnLlSwjwE/TuXCG0A6xZI/AAAAAAAAFcM/w1NWNzTa-ZQ/s1920/Audi-cars-wallpaper-12.jpg"
   }, {
-    "owner": "Violet Beauregarde",
-    "category": "Apartment",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Wheeldon_Apartment_Building_-_Portland_Oregon.jpg"
+    "owner": "Adrian Cole",
+    "category": "Cars",
+    "image": "http://2.bp.blogspot.com/-6knPeNvKbe0/UDd-oGAz8TI/AAAAAAAAFC8/v4RwuZwhyfM/s1600/Car-Wallpaper-hd-wallpapers-by-Rokott007-96.jpg"
   }],
   "reviews": [{
     "author": "Andrea",
-    "rating": 4,
-    "content": "Did not fall down."
+    "rating": 8,
+    "content": "Coolest cars ever."
   }, {
     "author": "Alex",
     "rating": 9,
-    "content": "Nice view of the volcano!"
+    "content": "Fast as hell!!!"
   }]
 }
