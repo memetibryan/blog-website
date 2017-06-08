@@ -1,3 +1,4 @@
+/*application.hbs*/
 header{
 	color: red;
 	font-family: cursive;
@@ -12,4 +13,13 @@ header{
 body{
 	background-image: url(http://www.surveygizmo.com/wp-content/uploads/2014/02/party-music-hd-wallpaper-1920x1200-3850.jpg);
 	font-family: cursive;
+}
+
+/*about.hbs*/
+.about{
+	color: blue;
+}
+
+.footer{
+	align-items: center;
 }
