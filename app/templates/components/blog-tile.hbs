@@ -1,0 +1,8 @@
+<li>
+  {{#link-to 'blog' blog.id}}{{blog.owner}}'s {{blog.type}} in {{blog.city}} {{/link-to}}
+  {{#if isImageShowing}}
+    <p><img src={{blog.image}} alt={{blog.type}} {{action 'imageHide'}}></p>
+  {{else}}
+    <button {{action 'imageShow'}}>Image</button>
+  {{/if}}
+</li>}
